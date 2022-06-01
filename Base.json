@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "type": "UZCARD",
+    "holder": "Azodov Doniyor",
+    "card_number": "8600",
+    "validity_period": "04/2022",
+    "password": "1",
+    "balance": "100000000",
+    "currency": "UZS",
+    "state": true,
+    "bank": "Xalq Banki"
+  },
+  {
+    "id": "1",
+    "type": "UZCARD",
+    "holder": "Azodov Doniyor",
+    "card_number": "8600",
+    "validity_period": "04/2022",
+    "password": "1",
+    "balance": "20000",
+    "currency": "UZS",
+    "state": true,
+    "bank": "Xalq Banki"
+  }
+]
